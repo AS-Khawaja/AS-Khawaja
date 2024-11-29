@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/askhawaja7" target="blank"><img src="https://img.shields.io/twitter/follow/askhawaja7?logo=twitter&style=for-the-badge" alt="askhawaja7" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **C++,Flutter**
 
